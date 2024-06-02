@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theakashshukla/.git"
+    "url": "https://github.com/theakashshukla/unity.git"
   },
   "keywords": [
     "astreak",
@@ -22,21 +22,16 @@
     "hashing-library",
     "hashing-text",
     "hashing-strings",
-    "hashing-strings-algorithm",
-    "hashing-strings-library",
-    "hashing-strings-text",
-    "hashing-strings-algorithm-library",
-    "hashing-strings-algorithm-text",
-    "hashing-strings",
-    "hashing-strings-algorithm",
-    "hashing-strings-algorithm-library",
-    "hashing-strings-algorithm-text"
+    "algorithm",
+    "library",
+    "algorithm-library",
+    "algorithm-text"
   ],
   "author": "Akash Shukla",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/your-username//issues"
-},
+    "url": "https://github.com/theakashshukla/unity/issues"
+  },
   "devDependencies": {
     "@types/node": "^20.13.0",
     "typescript": "^5.4.5"

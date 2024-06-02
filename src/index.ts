@@ -66,8 +66,6 @@ export * from './generate/generateOrderID';
 export * from './generate/generateSKU';
 export * from './generate/generateTicketID';
 export * from './generate/generateRegistrationNumber';
-
-
 export * from './generate/generateTrackingNumber';
 export * from './generate/generateRandomString';
 export * from './generate/generateRandomNumber';
