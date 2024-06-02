@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output directories
+dist/
+
+# Miscellaneous
+.DS_Store
+.env
+
+# Tests
+coverage/
+*.lcov
+
+# Configuration files
+*.config.js
+
+# TypeScript source files
+src/**/*.ts
+src/**/*.tsx
+
+# Documentation
+docs/
+
+# Example files
+example/
+examples/
+
+# Your custom ignores
+your_custom_ignore_files_or_folders/

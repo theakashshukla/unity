@@ -1,0 +1,44 @@
+{
+  "name": "@astreak/unity",
+  "version": "1.0.0",
+  "description": "A library for hashing strings using various algorithms.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theakashshukla/.git"
+  },
+  "keywords": [
+    "astreak",
+    "hash",
+    "generate",
+    "text",
+    "hashing",
+    "hashing-algorithm",
+    "hashing-library",
+    "hashing-text",
+    "hashing-strings",
+    "hashing-strings-algorithm",
+    "hashing-strings-library",
+    "hashing-strings-text",
+    "hashing-strings-algorithm-library",
+    "hashing-strings-algorithm-text",
+    "hashing-strings",
+    "hashing-strings-algorithm",
+    "hashing-strings-algorithm-library",
+    "hashing-strings-algorithm-text"
+  ],
+  "author": "Akash Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-username//issues"
+},
+  "devDependencies": {
+    "@types/node": "^20.13.0",
+    "typescript": "^5.4.5"
+  }
+}
