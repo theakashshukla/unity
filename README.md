@@ -27,9 +27,6 @@ import { exmaple } = '@astreak/unity';
 ### Generating Registration Number
 Generate a secure and customizable registration number:
 
-javascript
-
-
 ```javascript
 const registrationNumber = generateRegistrationNumber('USR', 6, true, true);
 console.log(registrationNumber); // Example output: USR-L8FJP-A1B2C3
